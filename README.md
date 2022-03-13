@@ -1,4 +1,4 @@
-Django Udemy Clone
+# Django Udemy Clone
 
 Admin Credentials:-
 
@@ -9,7 +9,7 @@ you can add any client for testing
 add some more course regarding your requirements
 
 
-now how to install
+# How to install
 
 ```sh
 pip install django
