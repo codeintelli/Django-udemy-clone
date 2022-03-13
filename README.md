@@ -1,21 +1,24 @@
-## Django E-Learning App
+Django Udemy Clone
 
-Live: [Demo](https://django-udemy-clone.herokuapp.com/)
+Admin Credentials:-
 
-Used Tech Stack
+Email id:- UDEMYADMIN@INC.IN
+Passoword:- test@123
 
-1. Django
-2. Sqlite
+you can add any client for testing 
+add some more course regarding your requirements
 
-### Screenshots
 
-## Home page
-<img src="screenshots/one.png" height="800">
+now how to install
 
-## Course Details page
-<img src="screenshots/two.png" height="800">
+```sh
+pip install django
 
-## Enrolled course details
-<img src="screenshots/three.png" height="800">
+pip install -m venv env
 
-Show your support by 🌟 the project!!
+call env\Script\Activate
+
+pip install -r requirement.txt
+
+py manage.py runserver PORT_IF_NEEDED
+```
